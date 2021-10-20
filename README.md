@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @riddhi1027
-- 👀 I’m interested in AI, ML and Graphic design  
-- 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: riddhi.v.gawande@gmail.com 
 
 <!---
